@@ -1,0 +1,17 @@
+{
+  "base_url": "dev.com",
+  "logins":{
+    "USER_ADMIN":{
+      "username":"username_dev",
+      "password":"password_dev"
+    },
+    "USER_FULL":{
+      "username":"username_dev",
+      "password":"password_dev"
+    },
+    "USER_RESTREINT":{
+      "username":"username_dev",
+      "password":"password_dev"
+    }
+  }
+}

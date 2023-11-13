@@ -1,0 +1,17 @@
+{
+  "base_url": "preprod.com",
+  "logins":{
+    "USER_ADMIN":{
+      "username":"username_preprod",
+      "password":"password_preprod"
+    },
+    "USER_FULL":{
+      "username":"username_preprod",
+      "password":"password_preprod"
+    },
+    "USER_RESTREINT":{
+      "username":"username_preprod",
+      "password":"password_preprod"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "base_url": "localhost:3000",
+  "logins":{
+    "USER_ADMIN":{
+      "username":"username_local",
+      "password":"password_local"
+    },
+    "USER_FULL":{
+      "username":"username_local",
+      "password":"password_local"
+    },
+    "USER_RESTREINT":{
+      "username":"username_local",
+      "password":"password_local"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "base_url": "recette.com",
+  "logins":{
+    "USER_ADMIN":{
+      "username":"username_recette",
+      "password":"password_recette"
+    },
+    "USER_FULL":{
+      "username":"username_recette",
+      "password":"password_recette"
+    },
+    "USER_RESTREINT":{
+      "username":"username_recette",
+      "password":"password_recette"
+    }
+  }
+}
